@@ -1,4 +1,6 @@
 OMR Sheet Evaluator using OpenCV
+
+
 This project implements an Optical Mark Recognition (OMR) Sheet Evaluator using Python and OpenCV.
 The system automatically evaluates a scanned OMR answer sheet by detecting filled bubbles, comparing them with a predefined answer key, and visually marking correct and incorrect responses.
 
